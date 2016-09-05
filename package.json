@@ -1,0 +1,13 @@
+{
+    "name": "SHPS4Node-make",
+    "version": "1.0.0",
+    "description": "Script Evaluator used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-make.js",
+    "dependencies": {
+        "vasync": "^1.6.0",
+        "q": "^1.2.0",
+        "lodash": ">=3.0.0 < 5",
+        "node-mod-load": "^2.1.0"
+    }
+}
